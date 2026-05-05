@@ -134,7 +134,7 @@ def predict(model: tf.keras.Model, img_array: np.ndarray) -> np.ndarray:
 st.markdown("""
 <div class="title-block">
     <h1>🔍 CIFAR-10 Classifier</h1>
-    <p>ResNet-style CNN · 10 object categories · Upload any image to identify</p>
+    <p>Developed by Md. Tareq Aziz; Phn: +8801701036833</p>
 </div>
 """, unsafe_allow_html=True)
 
